@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contatos - BB</string>
+    <string name="title_new_contact">New Contact</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="contact_mail">Contact Mail</string>
+    <string name="telephone">telephone</string>
+    <string name="birthday_date">Birthday Date</string>
+    <string name="is_friend">Is Friend</string>
+    <string name="save">Save</string>
+</resources>

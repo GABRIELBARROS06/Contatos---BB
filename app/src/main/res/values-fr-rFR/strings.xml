@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contatos - BB</string>
+    <string name="title_new_contact">Nouveau Contact</string>
+    <string name="contact_name">Nom du Contact</string>
+    <string name="contact_mail">Contact par E-mail</string>
+    <string name="telephone">téléphone</string>
+    <string name="birthday_date">Date d Aniverssarie</string>
+    <string name="is_friend">Ami</string>
+    <string name="save">Enregistrer</string>
+</resources>
